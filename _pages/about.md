@@ -14,7 +14,7 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am an Assistant Professor in the Division of Energy Economics at the [Mineral and Energy Economy Research Institute of the Polish Academy of Sciences](https://min-pan.krakow.pl/en/). I received my Ph.D. in the discipline of Environmental Engineering, Mining and Energy from [AGH University of Science and Technology](https://www.agh.edu.pl/en/university/).
