@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Pagina personal
 permalink: /
 subtitle: <b>Investigador de temas de seguridad y defensa</b>
 

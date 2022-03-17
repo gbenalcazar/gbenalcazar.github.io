@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publicaciones
 description: 
-years: [2021, 2020]
+years: 
 nav: true
 ---
 <!-- _pages/publications.md -->
